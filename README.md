@@ -1,20 +1,16 @@
-# 🌸 Create My Surprise - Mother's Day Edition 🌸
+# Create My Surprise - Mother's Day Edition 
 
 > A heartfelt, cinematic, and interactive web experience crafted with love to celebrate Mother's Day.
 
-![Mother's Day Project](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red.svg)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-
 ---
 
-## 💖 About The Project
+## About The Project
 
 **Create My Surprise** is not just an application; it's a digital hug, a memory lane, and a celebration of the most important woman in our lives. We wanted to move beyond traditional greeting cards and build something that feels **handcrafted, immersive, and deeply emotional.**
 
 This project features a beautiful balloon-popping memory game. As each balloon is popped, a beautiful polaroid-style modal gently reveals a cherished memory, a photograph, or a heartfelt message. Every interaction, animation, and color choice has been meticulously designed to convey warmth, love, and appreciation.
 
-### 🌟 Key Highlights
+### Key Highlights
 - **Cinematic Experience:** Smooth, tactile transitions that feel premium and deliberate.
 - **Interactive Joy:** A fun, physics-based balloon-popping mechanic that makes discovering memories a playful experience.
 - **Emotional Resonance:** Polaroid-style memory cards that bring nostalgia and warmth to the forefront.
@@ -22,17 +18,17 @@ This project features a beautiful balloon-popping memory game. As each balloon i
 
 ---
 
-## ✨ Features
+## Features
 
-- 🎈 **Interactive Balloon Physics:** Realistic floating and popping mechanics powered by custom React hooks (`useBalloonPhysics`).
-- 📸 **Polaroid Memory Modals:** Beautifully styled pop-ups that display photos and personalized messages.
-- 🎨 **Premium Aesthetics:** Carefully selected color palettes, elegant typography, and micro-animations that wow the user.
-- ⚡ **High Performance:** Built on Vite + React for lightning-fast load times and smooth rendering.
-- 📱 **Fully Responsive:** Looks stunning on everything from a large desktop monitor to a mobile phone screen.
+- **Interactive Balloon Physics:** Realistic floating and popping mechanics powered by custom React hooks (`useBalloonPhysics`).
+- **Polaroid Memory Modals:** Beautifully styled pop-ups that display photos and personalized messages.
+- **Premium Aesthetics:** Carefully selected color palettes, elegant typography, and micro-animations that wow the user.
+- **High Performance:** Built on Vite + React for lightning-fast load times and smooth rendering.
+- **Fully Responsive:** Looks stunning on everything from a large desktop monitor to a mobile phone screen.
 
 ---
 
-## 🛠️ Built With
+## Built With
 
 This project is built using modern web technologies to ensure a smooth, delightful experience:
 
@@ -43,7 +39,7 @@ This project is built using modern web technologies to ensure a smooth, delightf
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 Want to run this project locally and customize it for your own Mother's Day surprise? Follow these simple steps:
 
@@ -75,7 +71,7 @@ Want to run this project locally and customize it for your own Mother's Day surp
 
 ---
 
-## 💌 How to Customize
+## How to Customize
 
 The true beauty of this project lies in personalization. To make it your own:
 
@@ -85,11 +81,11 @@ The true beauty of this project lies in personalization. To make it your own:
 
 ---
 
-## 👩‍👧‍👦 Love & Care
+## Love & Care
 
 Every line of code in this project was written with the intention of making someone smile. From the subtle bounce of a floating balloon to the gentle fade-in of a cherished photograph, this project is a testament to the fact that technology, when crafted with empathy, can be incredibly beautiful and deeply human.
 
-Happy Mother's Day! 🌷
+Happy Mother's Day! ❤️🪷
 
 ---
 *Created with ❤️ for the world's best moms.*
