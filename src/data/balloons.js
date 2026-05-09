@@ -19,7 +19,7 @@ export const balloonData = [
     },
     label: '💕',
     message:
-      "Happy Mother’s Day Mummy ❤️ Thank you for loving me,supporting me, and being my biggest strength always 🌸",
+      "Happy Mother's Day Mummy ❤️ Thank you for loving me,supporting me, and being my biggest strength always 🌸",
     image: mom1,
   },
   {
@@ -31,7 +31,7 @@ export const balloonData = [
     },
     label: '💕',
     message:
-      "You've taught me that strength isn't loud — it's quiet, consistent, and selfless. Every sacrifice you made without ever asking for recognition made me who I am. I see it all, Mummy. I always will. 🌿",
+      "Happy Mother's Day Mummy ❤️ Thank you for filling every snowy moment with love, warmth, and endless smiles 🌸❄️",
     image: mom2,
   },
   {
@@ -43,7 +43,7 @@ export const balloonData = [
     },
     label: '💕',
     message:
-      "There are no words adequate enough to describe how much love I carry for you. You are the reason my world makes sense. Thank you, Mummy, for every hug, every prayer, every gentle nudge. ✨",
+      "Happy Mother's Day Mummy ❤️ From holding us in your arms to holding our hearts forever, thank you for your endless love 🌸✨",
     image: mom3,
   },
   {
@@ -55,7 +55,7 @@ export const balloonData = [
     },
     label: '💕',
     message:
-      "Remember the early mornings you woke up before sunrise just for us? Those golden moments shaped me in ways I am only now beginning to understand. You are my sunrise, Mummy. 🌅",
+      "Happy Mother's Day Mummy ❤️ Thank you for being my safe place, my biggest support, and the reason behind my happiest smiles 🌸✨",
     image: mom4,
   },
   {
@@ -67,7 +67,7 @@ export const balloonData = [
     },
     label: '💕',
     message:
-      "Your love has always been my safest place. When the world felt too big and too loud, coming home to you made everything right again. You are my peace, my anchor, my everything. 💕",
+      "Happy Mother's Day Mummy ❤️ Like these blooming flowers, your love fills my life with happiness, warmth, and endless smiles 🌸✨",
     image: mom5,
   },
   {
@@ -79,7 +79,7 @@ export const balloonData = [
     },
     label: '💕',
     message:
-      "Your patience is the deepest ocean I've ever known. You never gave up on me, not once. Even when I made it hard, you chose love — again and again and again. Thank you, Mummy. 🌊",
+      "Happy Mother's Day Mummy ❤️ Your simplicity, strength, and care make every corner of my life feel beautiful and full of love 🌿✨",
     image: mom6,
   },
   {
@@ -91,7 +91,7 @@ export const balloonData = [
     },
     label: '💕',
     message:
-      "You are the most brilliant person I know — not because of titles or achievements, but because of how you love. Completely. Generously. Without condition. You are my greatest inspiration. 🌟",
+      "Happy Mother's Day Mummy ❤️ Just like this calm river, your love flows endlessly through my life with peace, care, and happiness 💙✨",
     image: mom7,
   },
 ];
